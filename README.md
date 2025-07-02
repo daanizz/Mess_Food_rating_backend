@@ -34,28 +34,7 @@ This project was built to simulate real-time menu handling and food rating proce
 
 ## 📁 Project Structure
 
-Mess_food_rating/
-├── .gradle/                   # Gradle configuration files
-├── .idea/                     # IntelliJ project settings
-├── app/
-│   └── build/                 # Compiled build files
-└── src/
-    └── main/
-        └── java/
-            └── org/
-                └── example/
-                    ├── App.java                     # Main application entry point
-                    ├── Configuration/               # Configuration and session-related logic
-                    │   ├── AuthUser.java
-                    │   ├── DB.java
-                    │   ├── RedisConfig.java
-                    │   └── sessions.java
-                    ├── entities/                    # Entity/model classes
-                    │   ├── FoodRating.java
-                    │   ├── Menu.java
-                    │   └── User.java
-                    └── services/
-                        └── UserService.java         # Handles user/menu/rating logic
+![image](https://github.com/user-attachments/assets/36a98453-678c-4868-9c48-a60de89b1953)
 
 
 
